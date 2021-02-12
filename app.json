@@ -19,7 +19,25 @@
     "ios": {
       "supportsTablet": true
     },
+    
+    //expo push:android:upload --api-key AAAAg7r3G5s:APA91bHuwJNRzjdn_Ri_NrEE4chHRFK_DdEFLHqnODN4_TKWK4BLKXbuR3TDp1lLZ4QHPgcVZpLhKgv0UtqsVVfwPVWvAUEWmCUYh2NZYef5LMvP4OinGU7h-B7nTTMMTkeVkgyRI-Ke
     "android": {
+      "versionCode": 17,
+      "useNextNotificationsApi": true,
+       "permissions": [
+        "CAMERA",
+        "READ_INTERNAL_STORAGE",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "WRITE_INTERNAL_STORAGE",
+        "RECEIVE_BOOT_COMPLETED",
+        
+          "NOTIFICATIONS",
+      ],
+
+      "package": "com.diwocompany.Minhahorta",
+      "googleServicesFile": "./google-services.json",
+       // "useNextNotificationsApi": true,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"

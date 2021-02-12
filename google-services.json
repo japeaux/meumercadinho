@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436776784430",
+    "project_id": "meuhf-c5e81",
+    "storage_bucket": "meuhf-c5e81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436776784430:android:eac57f46673cb051c185bf",
+        "android_client_info": {
+          "package_name": "com.diwocompany.Minhahorta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436776784430-4ackn78fp7s72dvdafuip9cdf14t420q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB8Dy045-6kisUGgJIaji9FTizHtFqrX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436776784430-4ackn78fp7s72dvdafuip9cdf14t420q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
